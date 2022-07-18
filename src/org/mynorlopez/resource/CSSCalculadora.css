@@ -1,0 +1,30 @@
+.button1 
+{
+    -fx-background-color: #000000;
+    -fx-background-radius: 10 10 10 10; 
+}
+.button1:hover 
+{
+    -fx-background-color: #A09D9D;
+    -fx-background-radius: 10 10 10 10; 
+}
+.button1:pressed
+{
+    -fx-background-color: #FC6B00;
+    -fx-background-radius: 10 10 10 10; 
+}
+.textfield
+{
+    -fx-background-color: #494949; 
+}
+.anchorpane{
+    -fx-background-color: #000000;
+}
+
+
+
+
+
+
+
+
